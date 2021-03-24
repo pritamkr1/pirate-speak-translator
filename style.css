@@ -32,6 +32,7 @@ main{
 }
 .text-output{
     background-color: #fff;
+    color: #000;
 }
 .img-box img{
     height: 100%;
