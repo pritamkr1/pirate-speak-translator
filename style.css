@@ -45,4 +45,11 @@ footer{
     .img-box img{
         height: auto;
     }
+    main{
+        padding: 30px 0 30px 0;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+    
+    }
 }
