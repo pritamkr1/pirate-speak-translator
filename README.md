@@ -1,4 +1,3 @@
 # pirate-speak-translator
- a pirate speak translator which is convert english lanuage into pirate language.
-
+ a pirate speaks translator which converts English language into pirate language.
 ![alt text](2.png)
